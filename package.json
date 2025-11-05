@@ -1,0 +1,12 @@
+{
+  "name": "yodeck-proxy",
+  "version": "1.0.0",
+  "description": "Vercel function to proxy Yodeck API calls and bypass CORS",
+  "main": "api/yodeck-proxy.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
